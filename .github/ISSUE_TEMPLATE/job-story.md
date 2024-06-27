@@ -18,6 +18,9 @@ Optional detailed description of the motivation or reason behind the need
 # Expected Outcome
 Optional detailed description of the desired outcome or benefit
 
+# Linked Features
+List linked features
+
 # Acceptance Criteria
 List acceptance criteria
 

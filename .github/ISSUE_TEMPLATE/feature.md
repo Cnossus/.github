@@ -13,8 +13,8 @@ Detailed description of the feature, including its purpose and functionality
 # Acceptance Criteria
 List acceptance criteria
 
-# Linked Job Stories
-List related job stories
+# Linked Epics
+List linked epics
 
 # Additional Notes
 Include any additional information, attachments, or references
