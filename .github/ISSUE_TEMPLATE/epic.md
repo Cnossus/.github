@@ -13,8 +13,5 @@ High-level description of the epic, including the goal and value it brings
 # Acceptance Criteria
 List acceptance criteria
 
-# Linked Features/Epics
-List related features and or epics
-
 # Additional Notes
 Include any additional information, attachments, or references
