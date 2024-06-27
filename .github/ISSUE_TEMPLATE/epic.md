@@ -2,7 +2,7 @@
 name: Epic
 about: A template to create an Epic.
 title: Short descriptive title of the epic
-labels: ''
+labels: Epic
 assignees: ''
 
 ---

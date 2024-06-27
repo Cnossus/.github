@@ -2,7 +2,7 @@
 name: Feature
 about: A template to create a Feature.
 title: Short descriptive title of the feature
-labels: ''
+labels: Feature
 assignees: ''
 
 ---

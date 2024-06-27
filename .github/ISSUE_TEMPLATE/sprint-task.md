@@ -2,7 +2,7 @@
 name: Sprint Task
 about: A template to create a sprint task.
 title: Short descriptive title of the task
-labels: ''
+labels: Sprint Task
 assignees: ''
 
 ---
