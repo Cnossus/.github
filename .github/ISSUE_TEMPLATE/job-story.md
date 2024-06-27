@@ -2,7 +2,7 @@
 name: Job Story
 about: A template to create a Job Story.
 title: Short descriptive title of the job story
-labels: ''
+labels: Job Story
 assignees: ''
 
 ---

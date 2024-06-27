@@ -2,16 +2,19 @@
 name: Epic
 about: A template to create an Epic.
 title: Short descriptive title of the epic
-labels: ''
+labels: Epic
 assignees: ''
 
 ---
 
 # Description
-High-level description of the epic, including the goal and value it brings
+Detailed description of the task and what needs to be done
 
 # Acceptance Criteria
 List acceptance criteria
+
+# Linked Job Stories
+List linked job stories
 
 # Additional Notes
 Include any additional information, attachments, or references
